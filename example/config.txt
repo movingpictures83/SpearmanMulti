@@ -1,0 +1,2 @@
+Prefix plugins/SpearmanMulti/example/
+Plugin SpearmanMulti inputfile ranks.txt outputfile never.spearman.csv

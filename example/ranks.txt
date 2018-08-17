@@ -1,0 +1,2 @@
+plugins/SpearmanMulti/example/ranks1.csv
+plugins/SpearmanMulti/example/ranks2.csv
