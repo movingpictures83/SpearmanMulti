@@ -2,7 +2,8 @@
 # Language: R
 # Input: TXT (rank files)
 # Output: CSV (correlations)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: Hmisc 4.4.0
 
 PluMA plugin to compute Spearman correlations (Spearman, 1904) given
  a single set of samples and multiple sets of entities and ranks.
